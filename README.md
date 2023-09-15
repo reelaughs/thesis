@@ -1,5 +1,6 @@
 # thesis
 A project on effects on attitude certainty
+
 This study aims to examine how the individual trait of defensive confidence will interact with attitudinal bases and message type (affect-cognition matching) to affect change in attitude certainty after being presented with a persuasive attack. 
 The study design was a defensive confidence (continuous, high vs low) x message type (affective vs cognitive) x individual differences in structural bases (affective v. cognitive) between-subject design. 
 The current study hypothesised a larger change in attitude certainty, specifically an increase in certainty, for individuals with low as compared to high defensive confidence. 
