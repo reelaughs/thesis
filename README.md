@@ -1,4 +1,4 @@
-# thesis
+# undergraduate thesis
 A research study utilising regression to study changes in attitude certainty arising from interactions involving the individual trait of defensive confidence
 
 This study aims to examine how the individual trait of defensive confidence will interact with attitudinal bases and message type (affect-cognition matching) to affect change in attitude certainty after being presented with a persuasive attack. 
